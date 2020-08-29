@@ -1,0 +1,6 @@
+name: workflow-scm-step
+packages:
+- path: jenkins
+- path: hudson
+- path: org.jenkinsci.plugins.workflow.steps.scm
+- path: org.jvnet.hudson.test
